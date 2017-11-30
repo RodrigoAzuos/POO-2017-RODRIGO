@@ -20,12 +20,14 @@ public class main {
             switch (opcao){
                 case "1":
                     String tipo = " ";
-                    tipo = JOptionPane.showInputDialog(null, "Digite o tiop de conta 1 poupança || 2 corrente");
+                    tipo = JOptionPane.showInputDialog(null, "Digite o tipo de conta 1 poupança || 2 corrente");
                     JOptionPane.showMessageDialog(null,banco.adcionaConta(adcionar(tipo)));
                     break;
+
                 case "2":
                     JOptionPane.showMessageDialog(null, "Total de contas: " + banco.getTotalDeContas());
                     break;
+
                 case  "3":
                     String contas = "";
                     String op = " ";
@@ -33,12 +35,14 @@ public class main {
                     op = JOptionPane.showInputDialog(null,"Selecione sua conta pelo código\n" + contas);
                     contaSelecionada = banco.getConta(Integer.parseInt(op));
                     break;
+
                 case "4":
                     if (contaSelecionada != null)
                         JOptionPane.showMessageDialog(null, "Saldo: " +contaSelecionada.getSaldo());
                     else
                         JOptionPane.showMessageDialog(null, "Selecione a conta");
                     break;
+
                 case "5":
                     double valor = 0;
                     if (contaSelecionada != null){
@@ -48,6 +52,7 @@ public class main {
                     else
                         JOptionPane.showMessageDialog(null, "Selecione a conta");
                     break;
+
                 case "6":
                     Conta conta;
                     contas = banco.getContas();
@@ -75,6 +80,7 @@ public class main {
                     else
                         JOptionPane.showMessageDialog(null, "Selecione a conta");
                     break;
+
                 case "8":
                     if (contaSelecionada != null){
                         JOptionPane.showMessageDialog(null, atualizadorDeContas.roda(contaSelecionada));
@@ -84,6 +90,7 @@ public class main {
                         JOptionPane.showMessageDialog(null, "Selecione a conta");
                     }
                     break;
+
                 case "9":
                     JOptionPane.showMessageDialog(null, "Saldo total: " + atualizadorDeContas.getSaldoTotal());
                     break;

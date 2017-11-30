@@ -52,6 +52,6 @@ public class Banco {
 
     @Override
     public String toString() {
-        return "Banco: "+ this.razaoSocial+ "\nQuantidade de contas: "+this.getTotalDeContas();
+        return "Banco: "+ this.razaoSocial+ "\ncnpj: "+this.cnpj+ "\nQuantidade de contas: "+this.getTotalDeContas();
     }
 }
