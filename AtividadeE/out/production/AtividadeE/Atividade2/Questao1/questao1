@@ -1,0 +1,4 @@
+para compilar teremos que rodar:
+    javac Avaliacao.java
+para executar:
+    java Avaliacao.class

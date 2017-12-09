@@ -1,0 +1,14 @@
+peso e perentual de gordura São importante em: sistema de academia em uma classe Pessoa;
+peso, percentual de gordura e etnia não são importante em: sistema de recursos humanos em uma  classe Pessoa;
+
+tipo CNH é importante em: sistema de recursos humanos em um funcionario motorista;
+tipo CNH é importante em: sistema de clinica;
+
+tipo sanguíneo é importante em: sistema que contabiliza bolsas de sangue;
+tipo sanguíneo não é importante em: Sistema de urna eletrônica;
+
+saldo em conta é importante em um sistema bancario;
+saldo em conta não é importante em um sistema de academia;
+
+
+

@@ -1,0 +1,4 @@
+dará erro, pois variaveis locais não inicializadas são nulas. elas precizam ser
+inicializadas para que possam ser operaveis;
+
+o  metodo main também está faltando argumentos.

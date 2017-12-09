@@ -1,0 +1,6 @@
+variaveis a e b são declaradas e iniciadas;
+ao entrar no if existe uma pergunta se a é maior que 11,
+a neste momento é igual a 9 e pergunta também se b é menor ou igual a 100,
+neste momento  é igual a 1, tendo esse operador '&&' só estraria no if caso as
+duas operações fossem verdadeiras como a primeira não satisfaz ele execulta o que
+está no else mosta a-b;

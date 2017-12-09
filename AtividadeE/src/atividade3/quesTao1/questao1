@@ -1,0 +1,2 @@
+Compilará normalmente e incrementará a cada nova inserção de reservar, pois a variavel em questão é uma variavel global
+na classe. e somente é obrigatório a inicialização de uma variável local.

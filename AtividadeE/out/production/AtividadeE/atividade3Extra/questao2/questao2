@@ -1,0 +1,1 @@
+Iria rodas o que está dentro do else pois a condição imposta no if não seria satisfeita. o resultado printado seria: 0.

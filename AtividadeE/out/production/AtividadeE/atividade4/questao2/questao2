@@ -1,0 +1,2 @@
+dará um erro de exacução de NullPointerExeption pois o vetor de Cona guarda ponteiros para objetos
+Conta e neste momento não está apontando pra nenhum objeto.

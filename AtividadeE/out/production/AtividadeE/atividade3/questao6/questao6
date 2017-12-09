@@ -1,0 +1,2 @@
+Os valores dos saldo serão iguis pois c1 e c2 apontam para p msm objeto;
+o ojeto que antes era apontado por c1 sera recolhido pelo coletor de lixo do java.

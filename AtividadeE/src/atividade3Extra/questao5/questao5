@@ -1,0 +1,5 @@
+Haverá problemas pois o objeto está sendo instaciado com o construtor vazio e a classe deixa explicito que para criar um
+objeto do seu tipo é necessário passa algo dentro do contrutor caso isso não aconteça dará erro. a solução seria:
+
+public static void main(String[] args){
+    Post p = new Post(1);

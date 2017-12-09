@@ -1,0 +1,2 @@
+dará erro a variavel j por ser uma variavel local precisa ser inicializada se assim não for não poderemos comparar como
+estamos comparando na questão.

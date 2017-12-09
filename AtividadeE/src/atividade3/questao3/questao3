@@ -1,0 +1,2 @@
+não dará erro de compilação, mas no construtor, a palavra this não esta sendo usada e assim não saberar qual variavel
+referenciar e vai fazer referencia para o "a" declarado na classe e não ao a que é passado no construtor.

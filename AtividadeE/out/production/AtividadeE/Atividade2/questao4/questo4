@@ -1,0 +1,3 @@
+swich é uma esconha caso seja o numero em questao ele execulta determinado trecho de codigo.
+neste caso a variável op está sendo declarada e inicializada com 1 e logo abaixo temos o swich que diz:  caso seja 1
+mostre a operacao escolhida;

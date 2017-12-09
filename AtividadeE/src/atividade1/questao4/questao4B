@@ -1,0 +1,5 @@
+Não pois o objeto pessoa estaria ligada diretamente a conta e esse
+objeto não seria usável em outro senário e a proposta de OO é a reutilização
+de código.
+se assim fizesse poderia criar um array de Conta com um atributo de
+Pessoa;

@@ -1,0 +1,5 @@
+Radio traz consigo um contrutor que obriga a quem cria uma nova instancia a passar um numero de volume dentro dele;
+fazendo como está no exemplo dará erro pela falta deste valor obrigatorio.
+
+a solucaçao seria criar o radio passando o valor:
+    Radio radio = new Radio(10);

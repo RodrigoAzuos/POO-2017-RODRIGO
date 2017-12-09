@@ -1,0 +1,2 @@
+O codigo ira se repetir de 0 ao tamanho do vetor a que é 5 a cada volta o valor de i sera colocaro dentro de uma posição
+de a. no fim a será igual: [0,1,2,3,4] e na ultima volta terá um erro de index pois a não possue a posição 5 em seu vetor.

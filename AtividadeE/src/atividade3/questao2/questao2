@@ -1,0 +1,2 @@
+Dará erro no construtor, pois o construtor de Hotel não tem parametros e o metodo chamado não posssu retorno portanto
+não imprimirá nada na tela.

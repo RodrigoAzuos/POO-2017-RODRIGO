@@ -1,0 +1,9 @@
+Atributos são características que um certo objeto possue e os seus
+métodos são ações que mudam ou não essas características,
+alteram o seu estado.
+
+Exemplo:
+    Conta possue:
+        saldo, titular;
+    Conta faz:
+        saque, deposito, ver saldo.
