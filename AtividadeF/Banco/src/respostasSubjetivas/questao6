@@ -1,0 +1,3 @@
+Ele tem a responsabilidade de ditar a regra de que todas as classes que forem hereiras da classe tem a obrigação de
+reescrever este método. se apagarmos da classe mãe tiramos a possibilidade de polimorfismo, mas as classes filhas
+continuam podendo chamar este método.

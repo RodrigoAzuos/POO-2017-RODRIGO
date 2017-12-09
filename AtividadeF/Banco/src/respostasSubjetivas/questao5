@@ -1,0 +1,2 @@
+Tornando ela (classe) abstrata, tranferimos a reponsabilidade de reescrever o metodo para as classes que dela
+forem finlhas.
