@@ -1,0 +1,2 @@
+Não podem ser instanciaadas, pois uma classe abstrata diferentemente de uma classe concreta é um modelo
+para outrs classes e não para objetos. Então por isso nao pode ser instanciada.

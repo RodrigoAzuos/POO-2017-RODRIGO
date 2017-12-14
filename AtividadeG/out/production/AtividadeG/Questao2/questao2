@@ -1,0 +1,3 @@
+A classe concreta obrigatorimente tem que implementar o método abstrato imprima(), senão terá um erro.
+Pois a classe abstrata tem como umas das funções ditar regras (Dizer quais metodos vão ser implementados
+obrigatoriamente.)

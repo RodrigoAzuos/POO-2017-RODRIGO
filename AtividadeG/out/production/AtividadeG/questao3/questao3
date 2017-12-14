@@ -1,0 +1,3 @@
+A principio dá certo, pois os metodos de classe abstrata que não são abstratos tem corpos e são herdados
+e podem ser usados normalmente, mas se eles forem marcados como abstratos dará erro por que tem que receber
+um corpo em classes concretas.

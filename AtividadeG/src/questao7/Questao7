@@ -1,0 +1,3 @@
+O que estamos criando ai é um local na memoria que pode ser ocupado com objetos do tipo Figurageometrica
+Todas as classes que herdam de FiguramGeometricas são uma figura geometrica então pode ser guardado no
+espaço reservado para tal.
