@@ -164,7 +164,7 @@ public class AnuncioAdapter extends RecyclerView.Adapter<AnuncioAdapter.ViewHold
                             produto.setDescricao(edtDescricao.getText().toString());
                             produto.setLocal(edtLocal.getText().toString());
                             produto.setPreco(Float.parseFloat(edtvalor.getText().toString()));
-                            produto.setImagem(R.drawable.olx);
+
                             anuncioBox.put(produto);
                             produtos.set(pos,produto);
                             notifyItemChanged(pos);
