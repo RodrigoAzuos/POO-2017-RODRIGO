@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Olx</string>
+    <string name="preco_anuncio">Valor</string>
+    <string name="descricao_anuncio">Descrição</string>
+    <string name="data_anuncio">Data</string>
+    <string name="categoria_anuncio">Categoria</string>
+    <string name="salvar_anuncio">salvar</string>
+    <string name="cancelar_anuncio">cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="remover">Remover</string>
+    <string name="confirmar_edicao">Confirmar edição</string>
+    <string name="cancelar_edicao">Cancelar</string>
+
+
+</resources>
